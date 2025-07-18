@@ -10,7 +10,6 @@ __pycache__
 *.gif
 *.mp4
 *.webm
-*.webp
 conf/
 logs/
 mesh/
