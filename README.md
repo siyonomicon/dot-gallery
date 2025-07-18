@@ -5,6 +5,14 @@
 
 This project is a simple Flask application designed to serve as a media gallery, displaying images and videos.
 
+## Features
+
+*   **Image Display**: View various image formats (JPG, JPEG, PNG, GIF).
+*   **Video Playback**: Play video files (MP4, WebM).
+*   **Automatic Thumbnail Generation**: Videos automatically get thumbnails generated using FFmpeg for quick previews.
+*   **Pagination**: Media files are paginated for efficient browsing of large collections.
+*   **Dynamic Media Loading**: Fetches media files dynamically via an API endpoint.
+
 ## Technical Specifications
 
 ### Python Version
