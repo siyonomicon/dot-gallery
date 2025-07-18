@@ -13,6 +13,14 @@ This project is a simple Flask application designed to serve as a media gallery,
 *   **Pagination**: Media files are paginated for efficient browsing of large collections.
 *   **Dynamic Media Loading**: Fetches media files dynamically via an API endpoint.
 
+## Who is this used for?
+
+This application is ideal for:
+
+*   **Personal Media Collections**: Easily browse and view your personal photos and videos.
+*   **Local Development**: Developers needing a simple, self-hosted solution to display media content.
+*   **Small-scale Archives**: A straightforward way to organize and access a collection of visual media.
+
 ## Technical Specifications
 
 ### Python Version
