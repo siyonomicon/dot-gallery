@@ -1,5 +1,8 @@
 # Dot Gallery
 
+![Screenshot 1](images/screenshot1.webp)
+![Screenshot 2](images/screenshot2.webp)
+
 This project is a simple Flask application designed to serve as a media gallery, displaying images and videos.
 
 ## Technical Specifications
